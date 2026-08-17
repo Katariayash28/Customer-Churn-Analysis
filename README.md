@@ -5,7 +5,7 @@
 This project analyzes customer behavior to identify factors that contribute to customer churn and predicts whether a customer is likely to leave using Machine Learning.
 
 The project includes data cleaning, exploratory data analysis (EDA), visualization, feature engineering, model training, and an interactive Streamlit dashboard.
-
+live demo: https://customer-churn-analysis-mtmdfhjefaswzw9f6qp6wr.streamlit.app/
 ---
 
 ## 🚀 Features
