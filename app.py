@@ -55,7 +55,7 @@ st.markdown(
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/Telco_customer_Churn1.csv")
+    df = pd.read_csv("data/Telco_Customer_Churn1.csv")
     return df
 
 
